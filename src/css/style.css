@@ -1,0 +1,153 @@
+body {
+  background-image: linear-gradient(rgb(222, 242, 252), white);
+  background-repeat: no-repeat;
+}
+body .part-one .row {
+  margin-top: 35px;
+}
+.part-one .col-md-6 .nav img {
+  padding-right:  12vh;
+}
+.part-one .col-md-6 .nav a {
+  color: #000;
+  text-decoration: none;
+  text-align: center;
+  padding: 1px 5px;
+  margin-right: 1px;
+  font-size: 17px;
+}
+.part-one .col-md-6 button {
+  border: none;
+  border-radius: 20px;
+  background: white;
+  box-shadow: 0px 5px 5px -7px black;
+  padding: 7px 24px;
+  margin-left: 30vh;
+}
+.part-one .col-md-6 button :focus {
+  outline: none;
+}
+.part-one .col-md-4 h1 {
+  padding-top: 25vh;
+  color: #212353;
+  font-size: 50px;
+}
+.part-one .col-md-8 img {
+  padding-top: 20vh;
+  width: 120vh;
+}
+.part-one .col-md-4 p {
+  color: rgb(106, 123, 141);
+}
+.part-one .col-md-4 button {
+  border-radius: 25px;
+  color: white;
+  background: #9C69E2;
+  border: none;
+    padding: 8px 24px;
+}
+.part-two .col-md-5 h2 {
+  padding-top: 20vh;
+  color: #ffffff;
+}
+.part-two .col-md-5 p {
+  padding-top: 40px;
+  color: rgb(255, 255, 255);
+
+}
+.part-two {
+  background: rgb(190, 113, 241);
+  border-radius: 25px;
+  margin-top: 180px;
+  margin-right: 50px;
+  margin-left: 50px;
+  margin-bottom: 200px;
+  padding-bottom: 60px;
+}
+.part-three {
+  background: #ccf8f2;
+  border-radius: 25px;
+}
+.part-three .col-md-12 {
+  padding-top: 50px;
+  text-align: center;
+}
+.part-three .col-md-12 h2 {
+  padding-bottom: 50px;
+}
+.part-three .col-md-12 p{
+  margin-bottom: 80px;
+}
+.part-three .col-md-3-offset1 {
+  margin-bottom: 70px;
+}
+.part-three .col-md-3-offset1 img {
+  padding-top: 20px;
+  padding-left: 85px;
+  width: 230px;
+}
+.part-three .col-md-3 h3 {
+  padding-bottom: 30px;
+}
+.part-three .col-md-3 a {
+  color: black;
+  text-decoration: none;
+}
+.part-four .row {
+  margin-top: 200px;
+}
+.part-four .col-md-5{
+  padding-bottom: 150px;
+}
+.part-four .col-md-1-offset3 button {
+  margin-left: 200px;
+  border-radius: 25px;
+  color: white;
+  background: #F063B8;
+  border: none;
+  padding: 7px 24px;
+  font-size: 16px;
+}
+.part-four .col-md-3 button{
+  border: none;
+  border-radius: 20px;
+  background: white;
+  box-shadow: 0px 5px 5px -7px black;
+  padding: 7px 24px;
+  font-size: 16px;
+}
+.part-four .col-md-1 {
+}
+.part-four .col-md-3 h4 {
+  padding-bottom: 110px;
+  font-size: 20px;
+}
+.part-four .col-md-1-offset3 a {
+  padding-left: 180px;
+  padding-bottom: 25px;
+  display: block;
+  text-decoration: none;
+  color: #000;
+}
+.part-four .col-md-1-offset2 a {
+  padding-bottom: 25px;
+  display: block;
+  padding-left: 100px;
+  text-decoration: none;
+  color: #000;
+}
+.part-four .col-md-2 {
+  padding-left: 25px;
+}
+.part-four .col-md-2 button {
+  border: none;
+  background: none;
+}
+.part-four .col-md-1-offset6 button{
+  margin-left: 500px;
+  border: none;
+  background: none;
+}
+.part-four .col-md-5 p {
+  font-size: 12px;
+}
